@@ -815,7 +815,7 @@ if (!m.isGroup) return reply(lang.groupOnly())
             var but = [
           {
             "urlButton": {
-              "displayText": "YouTube Creator",
+              "displayText": "ʏᴏᴜᴛᴜʙ",
               "url": `${youtube}`
             }
           },
