@@ -587,12 +587,12 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Amellbot-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
 ├ ${prefix}rules
-├ ${prefix}sc
+├ ${prefix}Premium
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
@@ -1465,7 +1465,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 exports.rules = (prefix) => {
     return `
-*── 「 RULES AND FAQ 」 ──*
+*── 「Sistem Keamanan 」 ──*
 
 1. Jangan spam bot. 🙅
 2. Jangan telepon bot. ☎️
@@ -1475,7 +1475,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di YouTube Amell-Bot
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1514,12 +1514,8 @@ exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
-Berapapun donasi kalian akan sangat berarti 👍
-
-Thanks!
+Hallo kakac yang Baik Terimakasih Banyak Telah
+MAU BERDONASI Kami turus melambat:)
 
 Contact person Owner:
 wa.me/${ownernomer}
